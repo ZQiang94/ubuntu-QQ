@@ -1,5 +1,5 @@
 # ubuntu-QQ
-#####ubuntu15.10 install QQ<br/>
+####ubuntu15.10 install QQ<br/>
 1.安装wine，可以通过Ubuntu软件中心搜索wine，安装<br/>
 <br/>
 2.安装完成以后，下载wine-qqintl压缩包（这是国际版，ubuntu目前只能安装国际版QQ，而且是12年的版本）<br/>
@@ -21,7 +21,7 @@
 7.创建快捷方式<br/>
 &emsp;&emsp;7.1  安装完成的快捷键都在/usr/share/applications这个位置，进入这个目录找到相应快捷方式，然后右键复制到桌面就行了。
 
-####效果图
- ![alt text](https://raw.githubusercontent.com/ZQiang94/ubuntu-QQ/master/QQ%E6%88%AA%E5%9B%BE.png）
+#####效果图
+ ![](https://raw.githubusercontent.com/ZQiang94/ubuntu-QQ/master/QQ%E6%88%AA%E5%9B%BE.png）
   
   
