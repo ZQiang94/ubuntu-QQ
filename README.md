@@ -2,9 +2,9 @@
 ubuntu15.10 install QQ
 1.安装wine，可以通过Ubuntu软件中心搜索wine，安装
 
-2.安装完成以后，下载wine-qqintl压缩包（这是国际版，ubuntu目前只能安装国际版QQ，而且是12年的版本）
-  2.1下载地址 http://www.ubuntukylin.com/applications/showimg.php?lang=cn&id=23
-  2.2为了防止以后数据包丢失，将压缩文件放在了github上
+2.安装完成以后，下载wine-qqintl压缩包（这是国际版，ubuntu目前只能安装国际版QQ，而且是12年的版本）<br/>
+  2.1下载地址 http://www.ubuntukylin.com/applications/showimg.php?lang=cn&id=23<br/>
+  2.2为了防止以后数据包丢失，将压缩文件放在了github上<br/>
   
 3.下载完以后，提取出来到指定位置。提取出来一共是三个文件
   fonts-wqy-microhei_0.2.0-beta-2_all.deb ttf-wqy-microhei_0.2.0-beta-2_all.deb wine-qqintl_0.1.3-2_i386.deb
