@@ -22,6 +22,6 @@
 &emsp;&emsp;7.1  安装完成的快捷键都在/usr/share/applications这个位置，进入这个目录找到相应快捷方式，然后右键复制到桌面就行了。
 
 #####效果图
-  ![alt text](https://raw.githubusercontent.com/ZQiang94/ubuntu-QQ/master/QQ%E6%88%AA%E5%9B%BE.png）
+  ![alt text](QQ%E6%88%AA%E5%9B%BE.png）
   
   
